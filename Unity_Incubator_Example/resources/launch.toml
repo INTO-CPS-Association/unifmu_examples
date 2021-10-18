@@ -1,0 +1,4 @@
+linux = ["dotnet", "run", "backend.cs"]
+macos = ["dotnet", "run", "backend.cs"]
+windows = ["cmd.exe","/C","FMU_Unity_Tutorial.exe"]
+
