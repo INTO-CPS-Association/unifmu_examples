@@ -53,3 +53,11 @@ Building the unity project to an FMU:
 <p align="center">
 <img src="images/unity_backend_fmu.gif" width=900>
 </p>
+
+## Build to different operating systems
+
+It is also possible to build the unity project to different operating systems, e.g. MacOS or Linux.
+
+To do this, you need to open Unity Hub -> Installs -> Click on the three vertical dots on the Unity Installation -> Click Add Modules -> Mac Build Support (Mono)
+
+You can also choose Windows or Linux depending on your needs. Then you have the possibility to build the project to the installed operating systems.
